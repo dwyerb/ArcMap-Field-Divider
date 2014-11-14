@@ -1,0 +1,22 @@
+C:\Users\brendan.dwyer\AppData\Local\Temporary Projects\fieldDivider\bin\Debug\fieldDivider.dll
+C:\Users\brendan.dwyer\AppData\Local\Temporary Projects\fieldDivider\bin\Debug\fieldDivider.pdb
+C:\Users\brendan.dwyer\AppData\Local\Temporary Projects\fieldDivider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brendan.dwyer\AppData\Local\Temporary Projects\fieldDivider\obj\Debug\fieldDivider.dll
+C:\Users\brendan.dwyer\AppData\Local\Temporary Projects\fieldDivider\obj\Debug\fieldDivider.pdb
+C:\Users\brendan.dwyer\AppData\Local\Temporary Projects\fieldDivider\bin\Debug\fieldDivider.esriAddIn
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\bin\Debug\fieldDivider.dll
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\bin\Debug\fieldDivider.pdb
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Debug\fieldDivider.fieldDividerWindow.resources
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Debug\fieldDivider.csproj.GenerateResource.Cache
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Debug\fieldDivider.dll
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Debug\fieldDivider.pdb
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\bin\Debug\fieldDivider.esriAddIn
+C:\geoeye\fieldDivider\fieldDivider\bin\Debug\fieldDivider.dll
+C:\geoeye\fieldDivider\fieldDivider\bin\Debug\fieldDivider.pdb
+C:\geoeye\fieldDivider\fieldDivider\obj\Debug\ResolveAssemblyReference.cache
+C:\geoeye\fieldDivider\fieldDivider\obj\Debug\fieldDivider.fieldDividerWindow.resources
+C:\geoeye\fieldDivider\fieldDivider\obj\Debug\fieldDivider.csproj.GenerateResource.Cache
+C:\geoeye\fieldDivider\fieldDivider\obj\Debug\fieldDivider.dll
+C:\geoeye\fieldDivider\fieldDivider\obj\Debug\fieldDivider.pdb
+C:\geoeye\fieldDivider\fieldDivider\bin\Debug\fieldDivider.esriAddIn

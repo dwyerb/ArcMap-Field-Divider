@@ -1,0 +1,25 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>fieldDivider</Name>
+  <AddInID>{71078a7d-db2c-44fe-9452-7666406324f4}</AddInID>
+  <Description>This tool will create new fields in a table, based on the values in a selected field and a user defined delimeter</Description>
+  <Version>1.0</Version>
+  <Image>Images\fieldDivider.png</Image>
+  <Author>brendan.dwyer</Author>
+  <Company>bdwyer</Company>
+  <Date>11/2/2012</Date>
+  <Targets>
+    <Target name="Desktop" version="10.0" />
+  </Targets>
+  <AddIn language="CLR" library="fieldDivider.dll" namespace="fieldDivider">
+    <ArcMap>
+      <Commands>
+        <Button id="fieldDivider_fieldDividerButton" class="fieldDividerButton" message="" caption="Open Field Divider Tool" tip="Open Field Divider Window." category="Add-In Controls" image="Images\fieldDividerButton.png" />
+      </Commands>
+      <DockableWindows>
+        <DockableWindow id="fieldDivider_fieldDividerWindow" class="fieldDividerWindow+AddinImpl" caption="Field Delimiter Divider" image="Images\fieldDividerWindow.png">
+          <InitialPlacement height="300" width="300" state="pinned" position="left" />
+        </DockableWindow>
+      </DockableWindows>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

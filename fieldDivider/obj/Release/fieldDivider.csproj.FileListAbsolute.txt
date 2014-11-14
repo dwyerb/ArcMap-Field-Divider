@@ -1,0 +1,16 @@
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\bin\Release\fieldDivider.dll
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\bin\Release\fieldDivider.pdb
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Release\fieldDivider.fieldDividerWindow.resources
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Release\fieldDivider.csproj.GenerateResource.Cache
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Release\fieldDivider.dll
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\obj\Release\fieldDivider.pdb
+C:\Projects\Wikimapia_CSharp\fieldDivider\fieldDivider\bin\Release\fieldDivider.esriAddIn
+C:\geoeye\fieldDivider\fieldDivider\bin\Release\fieldDivider.dll
+C:\geoeye\fieldDivider\fieldDivider\bin\Release\fieldDivider.pdb
+C:\geoeye\fieldDivider\fieldDivider\obj\Release\ResolveAssemblyReference.cache
+C:\geoeye\fieldDivider\fieldDivider\obj\Release\fieldDivider.fieldDividerWindow.resources
+C:\geoeye\fieldDivider\fieldDivider\obj\Release\fieldDivider.csproj.GenerateResource.Cache
+C:\geoeye\fieldDivider\fieldDivider\obj\Release\fieldDivider.dll
+C:\geoeye\fieldDivider\fieldDivider\obj\Release\fieldDivider.pdb
+C:\geoeye\fieldDivider\fieldDivider\bin\Release\fieldDivider.esriAddIn
